@@ -30,7 +30,7 @@ Or can search for other information to start the new server by yourself in [RO-W
 #### CosmicTraveler (@CosmicTraveler)
    Github: [https://github.com/CosmicTraveler](https://github.com/CosmicTraveler)
 
-    Discord ID: Cosmic Traveler#0835
+    Discord ID: Aqualia#5733
 
 #### qwerty7vp (@qwerty7vp)
    Github: [https://github.com/qwerty7vp](https://github.com/qwerty7vp)
